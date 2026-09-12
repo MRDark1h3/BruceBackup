@@ -10,17 +10,7 @@ O objetivo deste projeto é centralizar, organizar e facilitar o acesso aos arqu
 
 O repositório pode conter diferentes tipos de arquivos utilizados pelo Bruce, incluindo:
 
-* arquivos de configuração;
-* arquivos de recursos;
-* imagens e ícones;
-* arquivos para personalização;
-* scripts auxiliares;
-* arquivos de interface;
-* configurações de hardware;
-* arquivos necessários para determinadas funcionalidades;
-* exemplos;
-* documentação;
-* outros recursos compatíveis com o Bruce Firmware.
+* Arquivos para sdcard
 
 A estrutura e o conteúdo podem variar conforme a versão do Bruce e o dispositivo utilizado.
 
