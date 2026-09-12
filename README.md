@@ -49,21 +49,23 @@ Os arquivos podem ser organizados em diretórios de acordo com sua finalidade:
 ```text
 BruceBackup/
 │
-├── configs/
-│   └── configurações
+├── BruceBAD/
+│   └── Bad USB & Bad BLE
 │
-├── assets/
-│   ├── images/
-│   └── icons/
+├── BruceEVIL/
+│   └── Evil Portal
+|
+├── BruceIBTN/
+|   └── Ibutton
 │
-├── scripts/
-│   └── scripts auxiliares
+├── BruceIR/
+│   └── Infrared
 │
-├── resources/
-│   └── recursos do Bruce
+├── BruceRF/
+│   └── Subghz
 │
-├── examples/
-│   └── exemplos
+├── BruceRFID/
+│   └── NFC
 │
 └── README.md
 ```
